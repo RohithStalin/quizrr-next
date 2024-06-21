@@ -20,7 +20,7 @@ const Page = () => {
             alt="logo"
           />
           <div className="flex-1 overflow-hidden">
-            <p className="font-semibold text-gray-700">
+            <p className="font-semibold text-sm text-gray-700">
               JEE Main 2025 Full Test Series
             </p>
           </div>
@@ -33,7 +33,7 @@ const Page = () => {
             alt="logo"
           />
           <div className="flex-1 overflow-hidden">
-            <p className="font-semibold text-gray-700 ">
+            <p className="font-semibold text-sm text-gray-700 ">
               JEE Main 2025 Chapter-wise Test Series
             </p>
           </div>
@@ -46,7 +46,7 @@ const Page = () => {
             alt="logo"
           />
           <div className="flex-1 overflow-hidden">
-            <p className="font-semibold text-gray-700 ">
+            <p className="font-semibold text-sm text-gray-700 ">
               BITSAT 2024 Full Test Series
             </p>
           </div>
@@ -59,20 +59,20 @@ const Page = () => {
             alt="logo"
           />
           <div className="flex-1 overflow-hidden">
-            <p className="font-semibold text-gray-700 ">
+            <p className="font-semibold text-sm text-gray-700 ">
               BITSAT 2024 Full Test Series (MiniPack)
             </p>
           </div>
           <IoIosArrowRoundForward className="text-gray-700 h-6 w-6" />
         </div>
-        <div className="flex items-center w-full h-24 bg-white border border-gray-300 rounded-lg shadow-md p-4 space-x-4 m-4">
+        <div className="flex items-center text-sm w-full h-24 bg-white border border-gray-300 rounded-lg shadow-md p-4 space-x-4 m-4">
           <img
             className="h-12 w-12 object-contain"
             src="https://cdn.quizrr.in/web-assets/icons/exams/bitsat.png"
             alt="logo"
           />
           <div className="flex-1 overflow-hidden">
-            <p className="font-semibold text-gray-700 ">
+            <p className="font-semibold text-sm text-gray-700 ">
               BITSAT 2024 Chapter-wise Test Series
             </p>
           </div>
