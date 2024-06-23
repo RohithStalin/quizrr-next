@@ -26,7 +26,7 @@ const Navbar = () => {
 
   return (
     <div className="bg-white flex flex-col items-start md:w-28 w-20 border-r border-gray-200 h-full fixed">
-      <div className="flex flex-col items-center border-b border-gray-200 pb-4 w-full">
+      <div className="flex flex-col items-center border-b border-gray-200 pb-4 w-full ">
         <Link
           href="/home"
           onClick={() => handleClick("/home")}
@@ -85,7 +85,7 @@ const Navbar = () => {
             </li>
           ))}
         </ul>
-        <ul className="flex flex-col items-center mt-32 space-y-4 pt-4 border-t border-gray-200">
+        <ul className="flex flex-col items-center mt-28 space-y-4 pt-4 border-t border-gray-200">
           <li className="p-2">
             <LuBell className="h-5 w-5 text-gray-700 " />
           </li>

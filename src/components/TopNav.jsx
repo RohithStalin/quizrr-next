@@ -16,7 +16,7 @@ const TopNav = () => {
   };
 
   return (
-    <div className="flex w-full  justify-between">
+    <div className="flex w-full  justify-between mx-7">
       <div className="flex justify-between items-center mx-7 mt-4">
         <div className="flex flex-col gap-3 mb-7 border-b">
           <span className="text-xs">OVERVIEW</span>
