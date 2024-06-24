@@ -25,7 +25,7 @@ const Navbar = () => {
   };
 
   return (
-    <div className="bg-white flex flex-col items-start md:w-28 w-20 border-r border-gray-200 h-full fixed">
+    <div className="bg-white flex flex-col items-start md:w-38 w-20 border-r border-gray-200 h-full fixed">
       <div className="flex flex-col items-center border-b border-gray-200 pb-4 w-full ">
         <Link
           href="/home"

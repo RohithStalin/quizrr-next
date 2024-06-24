@@ -55,7 +55,7 @@ const page = () => {
         <h2 className="flex flex-col text-lg font-semibold">
           Disable Predicted Percentile/Rank{" "}
           <span className="text-sm font-normal">
-            On disabling this option, we won't show you your predicted
+            On disabling this option, we won&apos;t show you your predicted
             percentile or rank wherever applicable.
           </span>
         </h2>
