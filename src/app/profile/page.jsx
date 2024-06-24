@@ -2,7 +2,7 @@ import React from "react";
 
 const Page = () => {
   return (
-    <div className="mx-12">
+    <div className="mx-12 ml-28">
       <div className="w-[150%] h-auto border-red-700 border-spacing-4 shadow-md rounded-md">
         <div className="flex justify-between items-center p-2 py-4 border-b">
           <div className=" flex justify-start items-center gap-2 p-2 w-[15%]">

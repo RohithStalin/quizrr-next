@@ -4,7 +4,7 @@ import { LuFileText } from "react-icons/lu";
 
 const Page = () => {
   return (
-    <div className=" ml-10 ">
+    <div className=" ml-28">
       <h1 className="font-medium text-blue-500 text-2xl mb-1">
         Good Evening, G Pritiranjan!
       </h1>

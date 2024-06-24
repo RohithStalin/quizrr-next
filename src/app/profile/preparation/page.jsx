@@ -3,7 +3,7 @@ import { LuPen } from "react-icons/lu";
 
 const pageprep = () => {
   return (
-    <div className="max-w-3xl  bg-gray-100 rounded-2xl shadow-lg overflow-hidden p-4 mx-12">
+    <div className="max-w-3xl  bg-gray-100 rounded-2xl shadow-lg overflow-hidden p-4 mx-12 ml-28">
       <div className="max-w-md mx-auto  rounded-xl shadow-md overflow-hidden md:max-w-2xl m-2 p-4 bg-green-100">
         <h2 className="my-2">
           Please fill the details so that we can help you better in your
