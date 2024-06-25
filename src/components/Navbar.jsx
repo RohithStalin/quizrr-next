@@ -25,7 +25,7 @@ const Navbar = () => {
   };
 
   return (
-    <div className="bg-white flex flex-col items-start md:w-38 w-20 border-r border-gray-200 h-full fixed">
+    <div className="bg-white flex flex-col items-start md:w-40 w-20 border-r border-gray-200 h-full fixed">
       <div className="flex flex-col items-center border-b border-gray-200 pb-4 w-full ">
         <Link
           href="/home"
@@ -56,7 +56,7 @@ const Navbar = () => {
           isOpen ? "block" : "hidden"
         } md:block mt-2 md:mt-5 w-full`}
       >
-        <ul className="flex flex-col w-full space-y-1">
+        <ul className="flex flex-col w-full space-y-1 ">
           {[
             { path: "/home", label: "Home", Icon: CiHome },
             { path: "/packs", label: "Packs", Icon: LuBook },

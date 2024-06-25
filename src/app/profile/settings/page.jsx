@@ -3,7 +3,7 @@ import Toggle from "../../../components/Toggle.jsx";
 
 const page = () => {
   return (
-    <div className="w-[70vw] mx-12 bg-gray-100 rounded-2xl shadow-lg overflow-hidden p-6">
+    <div className="w-[70vw] mx-12 bg-gray-100 rounded-2xl shadow-lg overflow-hidden p-6 ml-28">
       <div className="flex justify-between mb-5 ">
         <h2 className="flex flex-col text-lg font-semibold">
           Dark Mode{" "}
